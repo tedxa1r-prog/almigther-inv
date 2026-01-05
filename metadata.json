@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SAP-Style Warehouse ERP",
+  "description": "A high-fidelity Warehouse Management System (WMS) simulator based on SAP Business One logic, featuring batch management, inventory ledger (OINM), and stock transfer workflows with negative inventory prevention.",
+  "requestFramePermissions": []
+}
